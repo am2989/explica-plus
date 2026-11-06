@@ -188,13 +188,13 @@ Foram retiradas integrações complexas e funcionalidades de backend, privilegia
 
 ## 12. Estrutura do projeto
 
-O código-fonte da aplicação encontra-se neste repositório GitHub.
+O código-fonte da aplicação encontra-se neste repositório GitHub https://github.com/am2989/screenshot-to-pixel-322 .
 
 A documentação do projeto está organizada neste README.
 
 ## 13. Capturas de ecrã
 
-As capturas de ecrã da aplicação podem ser consultadas na pasta `screenshots/`.
+As capturas de ecrã da aplicação podem ser consultadas na pasta `screenshots explica plus/`.
 
 Exemplos de capturas a incluir:
 
